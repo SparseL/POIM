@@ -19,4 +19,4 @@ booktitle="Evolutionary Multi-Criterion Optimization",
 year="2021",
 publisher="Springer International Publishing",
 address="Cham",
-pages="697--707",}
+pages="697--707"}
